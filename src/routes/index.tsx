@@ -78,7 +78,7 @@ function Hero() {
           <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.3 }}
             className="mt-8 text-white/75 text-lg lg:text-xl max-w-xl leading-relaxed">
             Conforto, praticidade e qualidade de vida em um só lugar.
-            Atendimento consultivo para você encontrar o imóvel certo — sem complicação.
+            Atendimento consultivo para você encontrar o imóvel certo, sem complicação.
           </motion.p>
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.5 }}
             className="mt-10 flex flex-wrap gap-4">
@@ -132,7 +132,7 @@ function Sobre() {
           <div className="relative aspect-[4/5] rounded-3xl overflow-hidden shadow-elegant">
             <img src={portrait} alt="Carlos Henrique" className="w-full h-full object-cover" width={900} height={1100} loading="lazy" />
             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-navy/90 to-transparent p-8">
-              <div className="text-gold text-xs tracking-[0.25em] uppercase mb-2">CRECI · São Paulo</div>
+              <div className="text-gold text-xs tracking-[0.25em] uppercase mb-2">CRECI/SP 325170-F · São Paulo</div>
               <div className="font-display text-white text-2xl">Carlos Henrique Barbosa da Costa</div>
             </div>
           </div>
@@ -146,7 +146,7 @@ function Sobre() {
           <p className="mt-6 text-muted-foreground text-lg leading-relaxed">
             Corretor de imóveis com forte iniciativa, proatividade e profundo interesse
             em negociação e relacionamento com clientes. Uma trajetória profissional sólida
-            que desenvolveu responsabilidade, foco em resultados e ética — tudo aplicado
+            que desenvolveu responsabilidade, foco em resultados e ética, tudo aplicado
             para te ajudar a encontrar o lar dos seus sonhos.
           </p>
           <p className="mt-4 text-muted-foreground leading-relaxed">
@@ -316,7 +316,7 @@ function Contato() {
             Fale com o Carlos<br />e <span className="italic text-gold">realize seu sonho.</span>
           </h2>
           <p className="mt-6 text-white/70 text-lg leading-relaxed max-w-md">
-            Atendimento personalizado por WhatsApp. Conte o que você procura — eu cuido do resto.
+            Atendimento personalizado por WhatsApp. Conte o que você procura, eu cuido do resto.
           </p>
 
           <div className="mt-10 space-y-5">
