@@ -4,9 +4,9 @@ import { Train, Car, Sun, Waves, FileCheck, Home, Phone, Mail, MessageCircle, Ma
 import logo from "@/assets/logo-carlos-henrique.jpeg";
 import heroImg from "@/assets/hero-building.jpg";
 import portrait from "@/assets/carlos-portrait.jpg";
-import p1 from "@/assets/property-1.jpg";
-import p2 from "@/assets/property-2.jpg";
-import p3 from "@/assets/property-3.jpg";
+import p1 from "@/assets/property-1.png";
+import p2 from "@/assets/property-2.png";
+import p3 from "@/assets/property-3.png";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -169,9 +169,9 @@ function Sobre() {
 }
 
 const properties = [
-  { img: p1, title: "Residencial Aurora", loc: "Itaquera, SP", desc: "2 dorm · 1 suíte · varanda gourmet", beds: "2 dorm", area: "58m²", tags: ["Lazer completo", "Próx. metrô"] },
-  { img: p2, title: "Edifício Skyline", loc: "Carrão, SP", desc: "3 dorm · 1 vaga · piscina e academia", beds: "3 dorm", area: "72m²", tags: ["Vista panorâmica", "Lazer de clube"] },
-  { img: p3, title: "Vista Park Residence", loc: "Tatuapé, SP", desc: "Cobertura · 2 vagas · acabamento premium", beds: "3 dorm", area: "120m²", tags: ["Cobertura", "Acabamento alto padrão"] },
+  { img: p1, title: "Condomínio Full Guaianases", loc: "Guaianases, SP", desc: "2 dorm · vaga de garagem · piscina e academia", beds: "2 dorm", area: "33m² e 40m²", tags: ["Próx. Estação Guianases", "Lazer completo"] },
+  { img: p2, title: "Viva Smart Itaquera", loc: "Itaquera, SP", desc: "2 dorm · garagem coberta · piscina", beds: "2 dorm", area: "39m² e 41m²", tags: ["Próx. Estação Dom Bosco", "Lazer de clube"] },
+  { img: p3, title: "Vista Itaquera", loc: "Itaquera, SP", desc: "2 dorm · acabamento premium", beds: "2 dorm", area: "24m², 36m² e 54m²", tags: ["Centro de Itaquera", "Varanda"] },
 ];
 
 function Imoveis() {
@@ -181,7 +181,7 @@ function Imoveis() {
         <motion.div {...fadeUp} className="max-w-2xl">
           <div className="text-gold text-xs tracking-[0.3em] uppercase mb-4">Oportunidades exclusivas</div>
           <h2 className="font-display text-4xl lg:text-5xl text-navy leading-tight">
-            Imóveis selecionados<br />para você e sua família.
+            Imóveis selecionados<br/>para você e sua família.
           </h2>
         </motion.div>
 
@@ -229,7 +229,7 @@ function Imoveis() {
 
 function Diferenciais() {
   const features = [
-    { icon: Train, t: "Apenas 5 min", s: "da Estação Itaquera, mobilidade total no dia a dia." },
+    { icon: Train, t: "Apenas 5 min", s: "da Estação Guianases, mobilidade total no dia a dia." },
     { icon: Car, t: "Vaga de carro", s: "Praticidade e segurança para sua rotina." },
     { icon: Sun, t: "Varanda", s: "Espaço a mais para respirar e receber bem." },
     { icon: Waves, t: "Lazer de clube", s: "Piscina, academia, salão de festas e mais." },
