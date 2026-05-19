@@ -98,13 +98,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## 👨‍💻 Autor
 
-**Carlos Henrique** - Corretor de Imóveis
-
-*   **WhatsApp:** (11) 98160-1780
-*   **E-mail:** carlos.dacosta@hotmail.com
-*   **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/carloshenrique)
-*   **Website:** [Seu Site](https://www.carloshenriqueimoveis.com.br) (Após o deploy)
-
----
-
-**Desenvolvido com 💙 por Manus AI**
+**Lucas Costa** - Desenvolvedor
+*   **WhatsApp:** (11) 91484-2221
+*   **E-mail:** dev.lucasgcosta@hotmail.com
+*   **LinkedIn:** [Lucas Costa](www.linkedin.com/in/lucas-costag)
+*   **Website:** [Carlos Henrique — Corretor de Imóveis](chimoveis.com)
