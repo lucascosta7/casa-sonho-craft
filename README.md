@@ -88,10 +88,6 @@ Para configurar e rodar este projeto em sua máquina local, siga os passos abaix
 
     O site estará disponível em `http://localhost:3000`.
 
-## 🌐 Deploy
-
-Este projeto está configurado para um deploy fácil na Vercel. Basta conectar seu repositório GitHub à Vercel e configurar as variáveis de ambiente, se necessário.
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
