@@ -21,7 +21,6 @@ Este projeto foi construído com uma stack moderna e performática:
 *   **Estilização:** [Tailwind CSS](https://tailwindcss.com/) - Para um desenvolvimento de UI ágil e responsivo.
 *   **Linguagem:** [TypeScript](https://www.typescriptlang.org/) - Para maior segurança e escalabilidade do código.
 *   **Animações:** [Framer Motion](https://www.framer.com/motion/) ou [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) - Para transições suaves e elementos dinâmicos que enriquecem a experiência.
-*   **Hospedagem:** [Vercel](https://vercel.com/) - Para deploy contínuo e alta performance.
 
 ## 🎨 Design e Experiência do Usuário (UX/UI)
 
