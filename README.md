@@ -101,5 +101,5 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 **Lucas Costa** - Desenvolvedor
 *   **WhatsApp:** (11) 91484-2221
 *   **E-mail:** dev.lucasgcosta@hotmail.com
-*   **LinkedIn:** [Lucas Costa](www.linkedin.com/in/lucas-costag)
-*   **Website:** [Carlos Henrique — Corretor de Imóveis](chimoveis.com)
+*   **LinkedIn:** [Lucas Costa]([www.linkedin.com/in/lucas-costag](https://www.linkedin.com/in/lucas-costag/))
+*   **Website:** [Carlos Henrique — Corretor de Imóveis]([chimoveis.com](https://chimoveis.com/))
