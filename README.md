@@ -65,8 +65,8 @@ Para configurar e rodar este projeto em sua máquina local, siga os passos abaix
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_REPOSITORIO]
-    cd carlos-henrique-corretor
+    git clone [[URL_DO_REPOSITORIO]](https://github.com/lucascosta7/casa-sonho-craft.git)
+    cd casa-sonho-craft
     ```
 
 2.  **Instale as dependências:**
