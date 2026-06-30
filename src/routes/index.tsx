@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { motion } from "framer-motion";
 import { Train, Car, Sun, Waves, FileCheck, Home, Phone, Mail, MessageCircle, MapPin, Award, Shield, TrendingUp, Heart, Sparkles, ArrowRight, Quote, Bed, Maximize, Star } from "lucide-react";
-import logo from "@/assets/logo-carlos-henrique.jpeg";
+import logo from "@/assets/logo-carlos-henrique.png";
 import heroImg from "@/assets/hero-building.jpg";
 import portrait from "@/assets/carlos-portrait.jpg";
 import p1 from "@/assets/property-1.png";
